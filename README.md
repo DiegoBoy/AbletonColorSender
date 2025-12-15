@@ -9,7 +9,7 @@ This is the Remote Script of an Ableton Control Surface that sends out the activ
 
 
 # Installation
-1. Copy dir *Color_Sender* to the *Remote Scripts* dir in your Ableton's User Library:
+1. Copy dir *Color_Sender* to the `Remote Scripts` dir in your Ableton's User Library:
 * macOS = `/Users/[username]/Music/Ableton/User Library/Remote Scripts/`
 * Windows = `C:\Users\[username]\Documents\Ableton\User Library\Remote Scripts\`
 2. Select the *Color Sender* Control Surface in Ableton:
